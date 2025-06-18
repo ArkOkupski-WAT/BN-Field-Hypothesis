@@ -1,4 +1,3 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15692642.svg)](https://doi.org/10.5281/zenodo.15692642)
 
 # Vortex BN Field Hypothesis  
 *A playful theoretical exploration of gravity-torsion coupling*
