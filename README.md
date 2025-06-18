@@ -3,7 +3,7 @@
 *A playful theoretical exploration of gravity-torsion coupling*
 
 - [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15692642.svg)](https://doi.org/10.5281/zenodo.15692642) 
-- **PDF:** [Download here](main.pdf)   
+- [![Download PDF](https://img.shields.io/badge/Download-PDF-blue)](https://github.com/ArkOkupski-WAT/BN-Field-Hypothesis/raw/main/BN%20Field%20Hypothesis.pdf)  
 
 ## Idea  
 Hypothesis that variable gravitational fields induce vortex BN fields, modifying galactic dynamics without dark matter.  
