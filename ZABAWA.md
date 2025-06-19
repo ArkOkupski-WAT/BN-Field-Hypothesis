@@ -1,6 +1,6 @@
-# 🎭 Hipoteza pola BN: Naukowo-Teoretyczna Zabawa
+# 🎭 Hipoteza nowego pola BN: Naukowo-Teoretyczna Zabawa
 
-## 🌟 O co chodzi?
+## 🌟 O co tu chodzi?
 Ta hipoteza to **wspólna zabawa moja i DeepSeek**. Postanowiłem sprawdzić, do jakich wniosków doprowadzi potraktowanie **masy** analogicznie do ładunku elektrycznego, a **przepływu materii** jak prądu w równaniach Maxwella.
 
 ### Kluczowe założenia:
