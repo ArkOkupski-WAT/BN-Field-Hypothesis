@@ -4,12 +4,12 @@
 Ta hipoteza to **wspólna zabawa moja i DeepSeek**. Postanowiłem sprawdzić, do jakich wniosków doprowadzi potraktowanie **masy** analogicznie do ładunku elektrycznego, a **przepływu materii** jak prądu w równaniach Maxwella.
 
 ### Kluczowe założenia:
-1. **Przepływ masy/energii/pędu** generuje **wirowe pole BN** (nazwa tymczasowa)
+1. **Przepływ masy/energii/pędu** generuje **wirowe pole BN** (nazwa tymczasowa – nie wiedziałem jak je ochrzcić!). 
 2. **Odwrotne sprzężenie**: Pole BN może wytwarzać **prąd grawitacyjny** i **zmienne pole grawitacyjne**
 
 ## 🔍 Skąd się to wzięło?
 - **Moja rola**: Pomysł, intuicja fizyczna
-- **Rola DeepSeek**: Dopracowanie równań
+- **Rola DeepSeek**: Dopracowanie równań, sprawdzenie spójności matematycznej.
 
 ## 📜 Równania (podstawowe)
 $$
